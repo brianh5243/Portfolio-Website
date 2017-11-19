@@ -10,24 +10,12 @@ h3 {
 	text-align: right;
  }
 
- .img {
-	img-responsive;
- }
-
  p {
 	text-align: center;
  }
 
- .col-md-4 {
-	color: #7d97ad;
- }
-
- .col-md-12 {
-	color: #02b3e4;
- }
-
 .article {
-	outline: #FFFF;
+   outline: #FFF;
 }
 
 hr { 
@@ -40,7 +28,7 @@ hr {
     border-width: 15px;
 }
 
-col-md-12, img {
+.col-md-12, img {
 	max-width:100%;
 	height: auto;
 }
